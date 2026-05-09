@@ -64,7 +64,7 @@ public class Student extends Object {
             return false;
         }
         Student other = (Student) obj; //cast
-        if(Arrays.equals(marks,other.marks)) {
+        if(!Arrays.equals(marks,other.marks)) {
             return false;
         }
         if(Float.floatToIntBits(avgMark) != Float.floatToIntBits(other.avgMark)) {
