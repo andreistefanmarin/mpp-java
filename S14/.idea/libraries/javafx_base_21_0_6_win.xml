@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="javafx-base-21.0.6-win">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-21.0.6-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-21.0.6-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-fxml-21.0.6-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-21.0.6-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.7.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>
